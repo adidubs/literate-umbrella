@@ -34,5 +34,9 @@ int main()
     fclose(fp1);
     fclose(p1);
     fclose(p2);
+<<<<<<< HEAD
 printf("I am in master branch");
+=======
+printf("I am in change branch$.");
+>>>>>>> change
 }
